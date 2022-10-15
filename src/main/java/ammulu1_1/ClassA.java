@@ -22,6 +22,8 @@ public class ClassA {
 		public void method3() {
 			System.out.println("method3");
 			System.out.println("method6");
+			System.out.println("AfterMethod1");
+			System.out.println("AfterMethod2");
 		}
 
 	}

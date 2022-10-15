@@ -16,6 +16,9 @@ public class Testng3 {
 	{
 		System.out.println("AfterMethod");
 		System.out.println("AfterMethod2");
+		System.out.println("AfterMethod01");
+		System.out.println("AfterMethod222");
+		
 	}
 	@Test
 	public void method1()
